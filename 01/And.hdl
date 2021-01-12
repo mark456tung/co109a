@@ -15,4 +15,12 @@ CHIP And {
 
     PARTS:
     // Put your code here:
+     Nand(a=a, b=b, out=AnandB);
+     Nand(a=AnandB, b=AnandB, out=out);
+
+   //Nand(a=a, b=b, out=AnandB);
+  // Not(in=AnandB, out=out);
+
+
+    
 }
