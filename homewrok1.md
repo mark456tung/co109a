@@ -139,7 +139,7 @@ CHIP Mux {
 }
 </code></pre>
 ## DMux
-![not](https://github.com/mark456tung/co109a/blob/master/picture.dmux.png)
+![not](https://github.com/mark456tung/co109a/blob/master/picture/dmux.png)
 * [Mux.hdl](https://github.com/mark456tung/co109a/blob/master/01/Mux.hdl)
 * [Mux.out](https://github.com/mark456tung/co109a/blob/master/01/Mux.out)
 <pre><code>
