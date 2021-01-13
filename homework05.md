@@ -68,6 +68,3 @@ CHIP Register {
 }
 </pre></code>
 
-## DFF
-
-!![dff](https://github.com/mark456tung/co109a/blob/master/picture/dff.png)

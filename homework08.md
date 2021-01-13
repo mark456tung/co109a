@@ -37,7 +37,7 @@ D;JNE
 ## hack
 * [mult.hack](https://github.com/mark456tung/co109a/blob/master/04/mult/Mult.hack)
 
-![hack.png](https://github.com/mark456tung/co109a/blob/master/04/mult/mult1.PNG)
+![hack.png](https://github.com/mark456tung/co109a/blob/master/04/mult/mult1.png)
 ## RESULT
 * [mult.out](https://github.com/mark456tung/co109a/blob/master/04/mult/Mult.out)
-![mult.png](https://github.com/mark456tung/co109a/blob/master/04/mult/mult2.PNG)
+![mult.png](https://github.com/mark456tung/co109a/blob/master/04/mult/mult2.png)
