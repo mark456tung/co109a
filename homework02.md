@@ -4,7 +4,7 @@
 
 ![笛摩根定律證明2](https://github.com/mark456tung/co109a/blob/master/picture/proof2.png)
 ## Not16
-![Not16]](https://github.com/mark456tung/co109a/blob/master/picture/not16.png)
+![Not16](https://github.com/mark456tung/co109a/blob/master/picture/not16.png)
 * [Not16.hdl](https://github.com/mark456tung/co109a/blob/master/01/Not16.hdl)
 * [Not16.out](https://github.com/mark456tung/co109a/blob/master/01/Not16.out)
 <pre><code>
