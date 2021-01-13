@@ -1,6 +1,6 @@
 # WEEK1
 ## Not
-![not](https://github.com/mark456tung/co109a/blob/master/homework/picture/not.png)
+![not](https://github.com/mark456tung/co109a/blob/master/picture/not.png)
 
 * [Not.hdl](https://github.com/mark456tung/co109a/blob/master/01/Not.hdl)
 * [Not.out](https://github.com/mark456tung/co109a/blob/master/01/Not.out)
@@ -25,7 +25,7 @@ CHIP Not {
 }
 </code></pre>
 ## And
-![and](https://github.com/mark456tung/co109a/blob/master/homework/picture/and.png)
+![and](https://github.com/mark456tung/co109a/blob/master/picture/and.png)
 
 * [And.hdl](https://github.com/mark456tung/co109a/blob/master/01/And.hdl)
 * [And.out](https://github.com/mark456tung/co109a/blob/master/01/And.out)
@@ -53,7 +53,7 @@ CHIP And {
 }
 </code></pre>
 ## Or
-![or](https://github.com/mark456tung/co109a/blob/master/homework/picture/or.png)
+![or](https://github.com/mark456tung/co109a/blob/master/picture/or.png)
 
 * [Or.hdl](https://github.com/mark456tung/co109a/blob/master/01/Or.hdl)
 * [Or.out](https://github.com/mark456tung/co109a/blob/master/01/Or.out)
@@ -83,7 +83,7 @@ CHIP Or {
 </code></pre>
 
 ## Xor
-![not](https://github.com/mark456tung/co109a/blob/master/homework/picture/xor.png)
+![not](https://github.com/mark456tung/co109a/blob/master/picture/xor.png)
 * [Xor.hdl](https://github.com/mark456tung/co109a/blob/master/01/Xor.hdl)
 * [Xor.out](https://github.com/mark456tung/co109a/blob/master/01/Xor.out)
 <pre><code>
@@ -111,7 +111,7 @@ CHIP Xor {
 }
 </code></pre>
 ## Mux
-![not](https://github.com/mark456tung/co109a/blob/master/homework/picture/mux.png)
+![not](https://github.com/mark456tung/co109a/blob/master/picture/mux.png)
 * [Mux.hdl](https://github.com/mark456tung/co109a/blob/master/01/Mux.hdl)
 * [Mux.out](https://github.com/mark456tung/co109a/blob/master/01/Mux.out)
 <pre><code>
@@ -139,7 +139,7 @@ CHIP Mux {
 }
 </code></pre>
 ## DMux
-![not](https://github.com/mark456tung/co109a/blob/master/homework/picture.dmux.png)
+![not](https://github.com/mark456tung/co109a/blob/master/picture.dmux.png)
 * [Mux.hdl](https://github.com/mark456tung/co109a/blob/master/01/Mux.hdl)
 * [Mux.out](https://github.com/mark456tung/co109a/blob/master/01/Mux.out)
 <pre><code>
