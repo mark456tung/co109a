@@ -15,4 +15,4 @@ M=M+1
 @2
 0;JMP
 </code></pre>
-![Hack.png](https://github.com/mark456tung/co109a/blob/master/04/picture/week8.png)
+![Hack.png](https://github.com/mark456tung/co109a/blob/master/picture/week8.png)
